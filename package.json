@@ -1,0 +1,20 @@
+{
+  "name": "repos_01",
+  "version": "1.0.0",
+  "description": "I don't know what it will be yet... but this is for portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artem-rekunov/repos_01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artem-rekunov/repos_01/issues"
+  },
+  "homepage": "https://github.com/artem-rekunov/repos_01#readme"
+}
